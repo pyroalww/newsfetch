@@ -1,1 +1,49 @@
-
+{
+  "categories": [
+    {
+      "id": "politics",
+      "name": "Politics"
+    },
+    {
+      "id": "technology",
+      "name": "Technology"
+    },
+    {
+      "id": "sports",
+      "name": "Sports"
+    },
+    {
+      "id": "entertainment",
+      "name": "Entertainment"
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "title": "New Technology Trends of 2024",
+      "category": "technology",
+      "author": "John Doe",
+      "published_at": "2024-12-17",
+      "image_url": "https://example.com/images/article1.jpg",
+      "content": "In-depth analysis of upcoming technology..."
+    },
+    {
+      "id": 2,
+      "title": "Political Climate Heats Up",
+      "category": "politics",
+      "author": "Jane Smith",
+      "published_at": "2024-12-18",
+      "image_url": "https://example.com/images/article2.jpg",
+      "content": "A deep dive into the current political scenario..."
+    },
+    {
+      "id": 3,
+      "title": "Championship Finals: A Surprising Upset",
+      "category": "sports",
+      "author": "Alex Johnson",
+      "published_at": "2024-12-16",
+      "image_url": "https://example.com/images/article3.jpg",
+      "content": "Highlights and analysis of the final match..."
+    }
+  ]
+}
