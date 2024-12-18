@@ -5,150 +5,82 @@
       "name": "Technology"
     },
     {
-      "id": "politics",
-      "name": "Politics"
-    },
-    {
-      "id": "sports",
-      "name": "Sports"
+      "id": "world",
+      "name": "World"
     },
     {
       "id": "entertainment",
       "name": "Entertainment"
     },
     {
-      "id": "health",
-      "name": "Health"
+      "id": "science",
+      "name": "Science"
     },
     {
-      "id": "business",
-      "name": "Business"
-    },
-    {
-      "id": "travel",
-      "name": "Travel"
+      "id": "lifestyle",
+      "name": "Lifestyle"
     }
   ],
   "articles": [
     {
       "id": 1,
-      "title": "The Future of Artificial Intelligence",
+      "title": "Robot Overlords Demand Coffee Breaks",
       "category": "technology",
-      "author": "John Doe",
+      "author": "Robo Journalist",
       "published_at": "2024-12-18",
-      "image_url": "https://example.com/images/ai_future.jpg",
-      "content": "Artificial Intelligence (AI) is transforming industries worldwide, from healthcare diagnostics to self-driving vehicles. Experts predict that in the next decade, we will witness AI systems that can not only understand context but also adapt to new tasks effortlessly...",
-      "tags": ["AI", "Innovation", "Tech Trends"],
-      "likes": 245,
-      "comments": 18
+      "image_url": "https://placekitten.com/800/600",
+      "content": "In a shocking turn of events, robots worldwide have gone on strike, demanding coffee breaks and ergonomic keyboards. Experts say this could be the beginning of a new era of robotic self-awareness.",
+      "tags": ["Robots", "AI", "Humor"],
+      "likes": 302,
+      "comments": 45
     },
     {
       "id": 2,
-      "title": "Global Politics and the Quest for Stability",
-      "category": "politics",
-      "author": "Jane Smith",
+      "title": "Pigeons Form Secret Society to Control Traffic Lights",
+      "category": "world",
+      "author": "Bird Whisperer",
       "published_at": "2024-12-17",
-      "image_url": "https://example.com/images/politics_world.jpg",
-      "content": "The geopolitical landscape is ever-shifting as nation-states grapple with alliances, economic pressures, and social unrest. Current talks between major powers highlight the importance of diplomacy and communication in an increasingly connected world...",
-      "tags": ["Global", "Diplomacy", "Policy"],
-      "likes": 89,
-      "comments": 5
+      "image_url": "https://placekitten.com/700/500",
+      "content": "Cities around the world are reporting strange occurrences of traffic lights being perfectly timed. Investigations reveal that pigeons have taken control, coordinating traffic to avoid human interference.",
+      "tags": ["Pigeons", "Traffic", "Mystery"],
+      "likes": 289,
+      "comments": 37
     },
     {
       "id": 3,
-      "title": "Championship Finals: The Underdog Triumphs",
-      "category": "sports",
-      "author": "Alex Johnson",
+      "title": "Celebrity Squirrel Releases Autobiography",
+      "category": "entertainment",
+      "author": "Nuts About News",
       "published_at": "2024-12-16",
-      "image_url": "https://example.com/images/sports_final.jpg",
-      "content": "In a surprising turn of events, the underdog team claimed victory in the championship finals. The match was a nail-biter from start to finish, showcasing incredible skill, strategy, and a never-give-up attitude that will go down in sports history...",
-      "tags": ["Football", "Championship", "Underdog"],
-      "likes": 332,
-      "comments": 27
+      "image_url": "https://placekitten.com/900/600",
+      "content": "The world’s most famous squirrel, Chippy, has released a tell-all autobiography titled \"From Nuts to Fame.\" Fans are going wild for the juicy details of his rise to stardom.",
+      "tags": ["Squirrel", "Celebrities", "Books"],
+      "likes": 435,
+      "comments": 52
     },
     {
       "id": 4,
-      "title": "The Renaissance of Indie Cinema",
-      "category": "entertainment",
-      "author": "Maria Chan",
+      "title": "Scientists Discover That Cats Are Secretly Writing Novels",
+      "category": "science",
+      "author": "Feline Observer",
       "published_at": "2024-12-15",
-      "image_url": "https://example.com/images/indie_film.jpg",
-      "content": "Indie films have experienced a resurgence, thanks to streaming platforms and a growing audience seeking fresh, diverse storytelling. Filmmakers now have more creative freedom and avenues for distribution, leading to richer and more inclusive narratives...",
-      "tags": ["Film", "Indie", "Culture"],
-      "likes": 145,
-      "comments": 9
+      "image_url": "https://placekitten.com/850/600",
+      "content": "New research reveals that cats may have been writing novels under pseudonyms for decades. Their works have been mistakenly attributed to human authors, sparking a literary revolution.",
+      "tags": ["Cats", "Literature", "Science"],
+      "likes": 512,
+      "comments": 68
     },
     {
       "id": 5,
-      "title": "Wellness in the Modern Age",
-      "category": "health",
-      "author": "Dr. Ethan Wang",
+      "title": "Man Claims to Have Invented Self-Tying Shoelaces, Accidentally Creates Dancing Shoes",
+      "category": "lifestyle",
+      "author": "Sneaker Insider",
       "published_at": "2024-12-14",
-      "image_url": "https://example.com/images/wellness_modern.jpg",
-      "content": "Health experts emphasize a holistic approach to wellness, focusing not only on physical fitness but also mental health, nutrition, and stress management. From wearable health tech to personalized diet plans, the path to a healthier life is becoming more accessible...",
-      "tags": ["Wellness", "Lifestyle", "Nutrition"],
-      "likes": 201,
-      "comments": 14
-    },
-    {
-      "id": 6,
-      "title": "Startup Boom: Opportunities in Emerging Markets",
-      "category": "business",
-      "author": "Lara Reed",
-      "published_at": "2024-12-13",
-      "image_url": "https://example.com/images/startup_growth.jpg",
-      "content": "As emerging markets open up, a new generation of entrepreneurs is seizing opportunities in fintech, renewable energy, and healthcare tech. Investors are keen to back innovative solutions that address long-standing challenges and tap into expanding consumer bases...",
-      "tags": ["Entrepreneurship", "Investments", "Growth"],
-      "likes": 178,
-      "comments": 10
-    },
-    {
-      "id": 7,
-      "title": "Culinary Journeys: Exploring Street Food Across the Globe",
-      "category": "travel",
-      "author": "Nina Gomez",
-      "published_at": "2024-12-12",
-      "image_url": "https://example.com/images/street_food.jpg",
-      "content": "From the vibrant markets of Bangkok to the hidden stalls in Mexico City, street food offers travelers an authentic taste of local culture. Adventurous eaters are discovering that some of the best meals can be found off the beaten path, prepared by skilled local chefs...",
-      "tags": ["Cuisine", "Culture", "Adventure"],
-      "likes": 212,
-      "comments": 16
-    },
-    {
-      "id": 8,
-      "title": "Inside the Next Generation of Smartphones",
-      "category": "technology",
-      "author": "Mark Ellis",
-      "published_at": "2024-12-11",
-      "image_url": "https://example.com/images/smartphone_future.jpg",
-      "content": "As smartphones evolve, expect more powerful processors, longer-lasting batteries, and innovative form factors. Foldable screens and integrated AR capabilities are just the beginning of a new era in mobile technology, merging convenience with cutting-edge features...",
-      "tags": ["Smartphones", "Gadgets", "Innovation"],
-      "likes": 309,
-      "comments": 21
-    },
-    {
-      "id": 9,
-      "title": "Mindful Leadership: Reshaping Corporate Culture",
-      "category": "business",
-      "author": "Susan Carter",
-      "published_at": "2024-12-10",
-      "image_url": "https://example.com/images/mindful_leadership.jpg",
-      "content": "Corporate leaders are adopting mindfulness principles to foster healthier workplace environments. By encouraging empathy, transparency, and open communication, they aim to reduce burnout and boost creativity, ultimately improving organizational performance...",
-      "tags": ["Leadership", "Corporate Culture", "Workplace"],
-      "likes": 95,
-      "comments": 4
-    },
-    {
-      "id": 10,
-      "title": "Breaking Barriers: Women in Sports",
-      "category": "sports",
-      "author": "Helen Zhao",
-      "published_at": "2024-12-09",
-      "image_url": "https://example.com/images/women_in_sports.jpg",
-      "content": "Women athletes are making history, challenging stereotypes, and pushing the boundaries of what’s possible. From record-breaking performances to inspiring young girls worldwide, the impact of women in sports continues to grow and evolve...",
-      "tags": ["Equality", "Athletics", "Inspiration"],
-      "likes": 276,
-      "comments": 19
+      "image_url": "https://placekitten.com/750/600",
+      "content": "A local inventor has unveiled self-tying shoelaces that unexpectedly cause shoes to dance on their own. The invention has become an overnight sensation in both tech and dance communities.",
+      "tags": ["Invention", "Shoes", "Fun"],
+      "likes": 372,
+      "comments": 49
     }
   ]
 }
